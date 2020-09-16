@@ -1,0 +1,39 @@
+currentUser
+-accessToken
+-id
+-metadata
+-username
+-name
+
+{
+    "lastLogin": null,
+    "userStatus": "ENABLED",
+    "created": 1599732376000,
+    "ownerId": "156F86EB-5E1C-4E80-BE50-E956A7572D74",
+    "socialAccount": null,
+    "name": "mitt",
+    "___class": "Users",
+    "blUserLocale": "en",
+    "updated": null,
+    "email": "mitt@bain.com",
+    "objectId": "156F86EB-5E1C-4E80-BE50-E956A7572D74"
+}
+
+{
+    "lastLogin": 1599723718879,
+    "userStatus": "ENABLED",
+    "created": 1599713632000,
+    "ownerId": "A055BE8B-ABCC-4272-AAC3-6D89F8CDFE75",
+    "socialAccount": "BACKENDLESS",
+    "name": "michele",
+    "___class": "Users",
+    "blUserLocale": "en",
+    "user-token": "C1989A93-318F-4F53-B8DB-ACC03C8DB013",
+    "updated": null,
+    "email": "michele@yahoo.com",
+    "objectId": "A055BE8B-ABCC-4272-AAC3-6D89F8CDFE75"
+}
+
+
+to acquire the ID of a user.
+https://api.backendless.com/E677EEF1-60F0-1EDB-FF26-304866C39500/BC77C072-D231-4540-882A-8ABDCE02D0ED/data/Users?props=objectId

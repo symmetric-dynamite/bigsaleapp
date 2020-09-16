@@ -1,0 +1,88 @@
+/* main */ 
+.flow { 
+    margin-top: 5rem;
+}
+
+.nav-wrapper { 
+  background-color: #ff0000;
+}
+
+.register { 
+    color: #ff0000;
+}
+
+.login { 
+    color: #ff0000;
+}
+
+.BIG { 
+    color:#ff0000
+}
+
+/* features */
+
+.flow1 { 
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.material-icons { 
+    color: #ff0000;
+}
+
+/*google play download*/
+
+.flow2 { 
+    margin-top: 5rem;
+    background-color: black;
+    height: 20rem;
+    
+}
+
+
+/*advertisement*/
+
+.flow3 { 
+    margin-top: 5rem;
+
+}
+
+.fa-address-book {
+    color: #ff0000;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.fa-wallet {
+    color: #ff0000;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.fa-ad {
+    color: #ff0000;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.fa-check {
+    color: #ff0000;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.alignwords { 
+     margin-left: 2rem;
+     font-size: large;
+     color: black; 
+     font-weight: 500;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+}
+
+
+/*footer*/ 
+.page-footer {
+    background-color: #ff0000;
+    margin-top: 5rem;
+}
+
+

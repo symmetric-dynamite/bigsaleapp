@@ -1,0 +1,30 @@
+Listing Page
+  - List Item 
+      - Logic Flow, Open Details Page. 
+      - Get collection of records integration to show the entire list.
+      - search query (dynamic) (key - query)
+      - setup data variable for page. (make repeat) reference data from records. 
+      - Pass ID paramater to reference by ID 13:27
+      - add search bar. bind to page value (searchquery page parameter)
+
+Data Tab
+   - Resource ID = Listing Page
+   - Resource URL = Base URL
+    
+
+Detail Page
+
+Setup API Database
+Setup Schema (might need API) 
+Go to Data Variables (get Schema to fetch data)
+  - It should acquire a single record for each listing. 
+Bound detail page components to proper data variable (schema)
+page parameters after passing ID. 
+make id parameter
+go to data variables
+bind to id. fetched data is now dependent on ID. 
+
+Get All route 
+
+
+17:42. Page paramater.
